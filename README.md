@@ -1,4 +1,4 @@
-# [YOUR NAME]'s DSA Brain Dump 🧠💥
+# RAJ ARYAN's DSA Brain Dump 🧠💥
 
 > Welcome to my personal obsession. This isn't just a repo; it's my live-action digital notebook where I dissect, analyze, and conquer Data Structures & Algorithms problems from LeetCode.
 
