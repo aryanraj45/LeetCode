@@ -1,8 +1,8 @@
-# Raj Aryan's DSA Brain Dump 🧠💥
+# [YOUR NAME]'s DSA Brain Dump 🧠💥
 
 > Welcome to my personal obsession. This isn't just a repo; it's my live-action digital notebook where I dissect, analyze, and conquer Data Structures & Algorithms problems from LeetCode.
 
-![Coding GIF](https://media.giphy.com/media/MeJgB3yMMw6sM0HnGg/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## The Mission 🎯
 
