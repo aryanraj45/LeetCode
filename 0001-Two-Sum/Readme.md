@@ -11,3 +11,6 @@ You can return the answer in **any order**.
 
 ### 💡 Example 1:
 **Input:**
+nums = [3,2,4], target = 6
+
+**Output:**
