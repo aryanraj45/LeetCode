@@ -12,8 +12,7 @@ The overall run time complexity should be **O(log (m + n))**.
 nums1 = [1,3]
 nums2 = [2]
 
-makefile
-Copy code
+
 
 **Output:**
 2.00000
