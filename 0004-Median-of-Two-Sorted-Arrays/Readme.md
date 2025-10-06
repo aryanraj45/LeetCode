@@ -17,8 +17,7 @@ nums2 = [2]
 **Output:**
 2.00000
 
-yaml
-Copy code
+
 
 **Explanation:**
 merged array = [1,2,3] and median is 2.
@@ -30,14 +29,11 @@ merged array = [1,2,3] and median is 2.
 nums1 = [1,2]
 nums2 = [3,4]
 
-makefile
-Copy code
 
 **Output:**
 2.50000
 
-yaml
-Copy code
+
 
 **Explanation:**
 merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
@@ -49,14 +45,12 @@ merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 nums1 = [0,0]
 nums2 = [0,0]
 
-makefile
-Copy code
+
 
 **Output:**
 0.00000
 
-yaml
-Copy code
+
 
 ---
 
@@ -65,14 +59,12 @@ Copy code
 nums1 = []
 nums2 = [1]
 
-makefile
-Copy code
+
 
 **Output:**
 1.00000
 
-yaml
-Copy code
+
 
 ---
 
@@ -81,14 +73,12 @@ Copy code
 nums1 = [2]
 nums2 = []
 
-makefile
-Copy code
+
 
 **Output:**
 2.00000
 
-yaml
-Copy code
+
 
 ---
 
@@ -100,8 +90,7 @@ nums2.length == n
 1 <= m + n <= 2000
 -10^6 <= nums1[i], nums2[i] <= 10^6
 
-yaml
-Copy code
+
 
 ---
 
@@ -144,8 +133,7 @@ Copy code
 Time Complexity: O(m + n)
 Space Complexity: O(m + n)
 
-yaml
-Copy code
+
 
 ---
 
