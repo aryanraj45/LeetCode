@@ -10,7 +10,7 @@
 
 ---
 
-## Examples hfgdfg
+## Examples 
 
 **Example 1**
 input:
