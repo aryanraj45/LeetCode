@@ -4,7 +4,7 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
-        
+         
         // Merge two arrays
         int[] merged = new int[n + m];
         System.arraycopy(nums1, 0, merged, 0, n);
@@ -23,3 +23,4 @@ class Solution {
         }
     }
 }
+
