@@ -3,7 +3,7 @@ class Solution {
         if (strs == null || strs.length == 0) {
             return "";
         }
- 
+  
         String prefix = strs[0]; // Start with the first string as the prefix
 
         for (int i = 1; i < strs.length; i++) {
