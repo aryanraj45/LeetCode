@@ -81,3 +81,4 @@ Copy code
 - Make sure the final returned `k` correctly represents the count of unique elements.
 - Do not create another array; modify the input in-place.
 - Elements beyond index `k-1` can be ignored after processing.
+<!-- Updated for commit sequence -->
