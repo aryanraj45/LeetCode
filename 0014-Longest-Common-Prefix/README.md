@@ -101,3 +101,4 @@ Here are some guiding ideas and hints:
 
 - This README intentionally omits full code implementation.  
 - Use this scaffold when writing solution or explaining in your code.  
+<!-- Updated for commit sequence -->
