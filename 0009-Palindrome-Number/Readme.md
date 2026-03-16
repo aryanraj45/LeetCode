@@ -1,7 +1,7 @@
 # 009 — Palindrome Number
 
 **Difficulty:** Easy
-
+ 
 ---  
 
 ## Problem
