@@ -5,7 +5,7 @@ Given a string `s`, return the **longest palindromic substring** in `s`.
 
 A **palindrome** is a string that reads the same forward and backward (e.g., "aba", "bb").
 
----
+---  
 
 ### 💡 Example 1
 **Input:**
