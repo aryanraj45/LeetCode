@@ -1,4 +1,5 @@
 class Solution {
+    // Small change 10
     public int[] searchRange(int[] nums, int target) {
         int[] result = new int[2];
         result[0] = findFirst(nums, target);
