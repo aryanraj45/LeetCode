@@ -1,4 +1,5 @@
 class Solution {
+    // Small change 6
     public int romanToInt(String s) {
         int total = 0;
         int prevValue = 0;
