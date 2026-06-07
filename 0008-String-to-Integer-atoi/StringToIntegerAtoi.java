@@ -1,4 +1,5 @@
 public class Solution {
+    // Small change 4
     public int myAtoi(String s) {
         int INT_MAX = Integer.MAX_VALUE;
         int INT_MIN = Integer.MIN_VALUE;
