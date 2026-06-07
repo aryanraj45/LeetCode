@@ -1,4 +1,5 @@
 class Solution {
+    // Small change 5
     public boolean isPalindrome(int x) {
         if(x<0)
     {
